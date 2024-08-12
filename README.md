@@ -14,7 +14,7 @@ This project provides a basic framework for a Discord bot using Discord.js v14. 
 
    ```bash
    git clone https://github.com/topraqk1/discord.js-command-handler.git
-   cd repository_name
+   cd discord.js-command-handler
    ```
 
 2. **Install Dependencies:**

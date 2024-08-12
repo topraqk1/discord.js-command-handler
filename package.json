@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-v14-command-handler",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Command Handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "topraqk1",
+  "license": "ISC",
+  "dependencies": {
+    "color-console.js": "^2.6.0",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "helixia.db": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}

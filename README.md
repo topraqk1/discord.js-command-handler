@@ -31,11 +31,11 @@ This project provides a basic framework for a Discord bot using Discord.js v14. 
 
    - **`token`**: Replace `YOUR_DISCORD_BOT_TOKEN` with the token of your Discord bot obtained from the [Discord Developer Portal](https://discord.com/developers/applications).
    
-   - **`prefic`**: Set the command prefix for your bot (e.g., `!`, `?`, etc.).
+   - **`prefix`**: Set the command prefix for your bot (e.g., `!`, `?`, etc.).
 
 4. **Start the Bot:**
 
-   Run the bot using:
+   After installing the dependencies and configuring the `config.js` file, run the bot using:
 
    ```bash
    node index.js
